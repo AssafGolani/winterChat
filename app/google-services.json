@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "488730321331",
+    "project_id": "winterchat-751c8",
+    "storage_bucket": "winterchat-751c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488730321331:android:49b2ae73fe29a8c1d2ebc6",
+        "android_client_info": {
+          "package_name": "com.example.winterchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488730321331-bqtabatm8ofgeee9or4kb8e45l9k58nb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcefyFvT5PwTYFQKph35Ib03H3RMgZIzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488730321331-bqtabatm8ofgeee9or4kb8e45l9k58nb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
